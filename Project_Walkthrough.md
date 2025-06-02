@@ -84,7 +84,11 @@ This project simulates a real-world, production-grade data engineering pipeline 
     
 
 ![Raw Files](src/raw_files.png)
+---
+---
 ![Containers](src/containers.png)
+---
+---
 ![Raw Folder](src/raw.png)
 
 ----------
@@ -100,8 +104,14 @@ This project simulates a real-world, production-grade data engineering pipeline 
     
 
 ![ADF Pipeline](src/adf_pipeline.png)
+---
+---
 ![ADF Monitor](src/adf_monitor.png)
+---
+---
 ![ADF Linked Services](src/adf_linked_services.png)
+---
+---
 ![Bronze Container](src/bronze.png)
 
 
@@ -114,6 +124,8 @@ This project simulates a real-world, production-grade data engineering pipeline 
 -   It does not handle ingestion from GitHub, but rather defines metadata and autoload configurations.
     
 ![Autoloader Part 1](src/autoloader_1.png)
+---
+---
 ![Autoloader Part 2](src/autoloader_2.png)
 
 ----------
@@ -140,8 +152,14 @@ This project simulates a real-world, production-grade data engineering pipeline 
 -   Table quality and audit enforcement enabled
     
 ![DLT Gold Pipeline Part 1](src/DLT_Gold_Pipelinepart1.png)
+---
+---
 ![DLT Gold Pipeline Part 2](src/DLT_Gold_Pipelinepart2.png)
+---
+---
 ![DLT Gold Pipeline Part 3](src/DLT_Gold_Pipelinepart3.png)
+---
+---
 ![DLT Data Quality](src/DLT_data_quality.png)
 
 ----------
